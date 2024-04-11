@@ -20,3 +20,6 @@ def test_fib_bottom_up():
 def test_fib_bottom_up_better():
     n = 10
     assert fib_bottom_up_better(n) == 55
+
+
+test_fib_recursive()
